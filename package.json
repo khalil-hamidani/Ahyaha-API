@@ -1,0 +1,14 @@
+{
+    "name": "algeria-hospitals-api",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "axios": "^1.7.7",
+        "express": "^4.21.1",
+        "express-rate-limit": "^7.4.0",
+        "node-cache": "^5.1.2"
+    }
+}
